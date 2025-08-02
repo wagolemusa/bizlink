@@ -77,6 +77,10 @@ body {
   background-size: cover;
 }
 
+.benefit-cover h3{
+  font-family: 20x;
+}
+
 .input {
   width: 100%;
   background: transparent;
