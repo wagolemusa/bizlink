@@ -1,9 +1,9 @@
 import Header from "../../shared/widgets/header/header";
-import Banner from "../features/banner";
-import Branding from "../features/branding";
-import Benefits from  "../features/benefits";
-import FeatureHightlight from "../features/feature.hightlight"
-import  Pricing from "../features/pricing"
+import Banner from "../elements/banner";
+import Branding from "../elements/branding";
+import Benefits from  "../elements/benefits";
+import FeatureHightlight from "../elements/feature.hightlight"
+import  Pricing from "../elements/pricing"
 import Footer from "@/shared/widgets/footer/footer";
 
 
